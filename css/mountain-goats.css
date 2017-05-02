@@ -3,3 +3,12 @@
   float: left;
   background-color: teal;
 }
+
+img.wrap {
+  float: right;
+}
+
+.column {
+  width: 300px;
+  float:left;
+}
